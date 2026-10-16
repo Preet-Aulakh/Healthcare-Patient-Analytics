@@ -4,6 +4,11 @@ An end-to-end data analytics project developed to track clinical operations, pat
 
 ---
 
+## 📸 Dashboard Preview
+![HR Analytics Dashboard](Dashboard.png)
+
+---
+
 ## 🚀 Key Visual Elements & Dashboard Layout
 * **Executive Metrics Grid:** Dual-split operational KPIs tracking key business drivers simultaneously across cohorts:
   * **Discharged (Recovered):** Total Patients (**2K**), Avg Stay (**7.82 Days**), Avg Bill (**152.81K**), Total Revenue (**\$256.72M**).
