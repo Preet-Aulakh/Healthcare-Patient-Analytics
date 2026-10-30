@@ -11,7 +11,7 @@ An end-to-end data analytics project developed to track clinical operations, pat
 
 ## 🔗 Live Interactive Dashboard
 
-👉 **[Click Here to View the Live Production Dashboard]()**  
+👉 **[Click Here to View the Live Production Dashboard](https://datastudio.google.com/reporting/d8dae2a7-9f4b-4991-a3bb-d4bb77ea32fe)**  
 *(This link provides full interactive access to filters, carrier segmentations, and dynamic business metrics live on Looker Studio).*
 
 ---
